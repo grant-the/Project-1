@@ -1,12 +1,12 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
+Grant Stoner, gstoner2@huskers.unl.edu
 
-(Your teammate's contact info, if appropriate)
+
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+I am going to be training GPT-2 on UFO sightings. I will then record myself reporting on the generated UFO sightings.
 
 ## Model/Data
 
