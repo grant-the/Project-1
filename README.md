@@ -6,13 +6,13 @@ Grant Stoner, gstoner2@huskers.unl.edu
 
 ## Abstract
 
-I am going to be training GPT-2 on UFO sightings. I will then record myself reporting on the generated UFO sightings.
+I am going to be training GPT-2 on UFO sightings. I will then record myself reporting on the generated UFO sightings in the style of a mornig radio show reporting on weather. It is meant to give an awareness to these phenomenon which are normally swept under the rug when they happen.
 
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data). what is your corpus?
+- UFO sightings.rtf
+- 
 
 ## Code
 
